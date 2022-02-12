@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="quijos_frescal_maturados">
+        <item name="item_1">QJ MINAS ART SERRO D FARM PECA KG\nCodigo Item:132051\nPlu:6012–7</item>
+        <item name="item_2">QUEIJO ARAXA ARTESANAL KG\nCodigo Item:133490\nPlu:9768–0</item>
+        <item name="item_3">QJ MINAS ARTESANAL SAO PEDRO KG\nCodigo Item:133491\nPlu:9769–7</item>
+        <item name="item_4">QUEIJO MINAS FRESCAL BUFALA\nCodigo Item:133464\nPlu:9561–7</item>
+        <item name="item_5">QUEIJO MINAS FRESCAL FAZENDA KG\nCodigo Item:133423\nPlu:9432–0</item>
+        <item name="item_6">QUEIJO MINAS FRESCAL IPANEMA KG\nCodigo Item:133090\nPlu:4050–1</item>
+        <item name="item_7">QUEIJO MINAS FRESCAL TIROLEZ KG\nCodigo Item:132969\nPlu:9493–1</item>
+        <item name="item_8">QUEIJO MINAS PADRAO TIROLEZ KG\nCodigo Item:133165\nPlu:9141–1</item>
+        <item name="item_9">QUEIJO MINAS PADRAO ZEROLAC TIROLEZ\nCodigo Item:135556\nPlu:7600–5</item>
+        <item name="item_10">RICOTA FRESCA FAZENDA KG\nCodigo Item:133424\nPlu:9433–7</item>
+        <item name="item_11">RICOTA FRESCA IPANEMA KG\nCodigo Item:133091\nPlu:4052–5</item>
+        <item name="item_12">RICOTA BUFALA BOM DESTINO KG\nCodigo Item:133868\nPlu:8672–1</item>
+        <item name="item_13">RICOTA DEF TANIA FRACAO KG\nCodigo Item:133124\nPlu:4073–0</item>
+        <item name="item_14">\RICOTA DEFUM PICANTE FRACIONADA TAN\nCodigo Item:133832\nPlu:4194–2</item>
+        <item name="item_15">QUEIJO MUSSARELA PALITO COND NACON\nCodigo Item:153084\nPlu:7671–5</item>
+        <item name="item_16">QUEIJO MUSSARELA PALITO NACON KG\nCodigo Item:153085\nPlu:7672–2</item>
+        <!--<item name="item_17">\nCodigo Item:\nPlu:</item>
+        <item name="item_18">\nCodigo Item:\nPlu:</item>-->
+    </string-array>
+</resources>

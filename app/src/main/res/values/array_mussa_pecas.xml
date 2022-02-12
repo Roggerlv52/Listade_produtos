@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="mussarelas_pecas">
+    <item name="item_1">MUSS MONTE CASTELO PECA KG\nCodigo Item:153077\nPlu:7661–6</item>
+    <item name="item_2">MUSSA FRAC LATELLI PECA KG\nCodigo Item:153172\nPlu:7674–6</item>
+    <item name="item_002">MUSSARELA PRATO LATELLI PECA KG\nCodigo Item:151259\nPlu:6005–9</item>
+    <item name="item_3"> MUSSRELA INTERFOLIADA LATELI KG\nCodigo Item:133125\nPlu:4074–7</item>
+    <item name="item_004">MUSSARELA PRATO INTERFOLIAD KG\nCodigo Item:133645\nPlu:4123–2</item>
+    <item name="item_4">MUSSARELA BOLINHA BUFALA KG BOM DES\nCodigo Item:133870\nPlu:8679–0</item>
+    <item name="item_005">MUSSARELA TRANCA BUFALA KG BOM DEST\nCodigo Item:133866\nPlu:8670–7</item>
+    <item name="item_5">MUSSARELA BOLINHA JERSEY VALE KG\nCodigo Item:153070\nPlu:7673–9</item>
+    <item name="item_6">MUSSARELA BUF MANTA BOM DESTINO KG\nCodigo Item:133867\nPlu:8671–4</item>
+    <item name="item_7">MUSSARELA FRACAO MEMBERS MARK KG\nCodigo Item:133644\nPlu:4122–5</item>
+    <item name="item_8">MUSSARELA IPANEMA F2 PECA KG\nCodigo Item:133155\nPlu:4097–6</item>
+    <item name="item_9">MUSSARELA IPANEMA PECA KG\nCodigo Item:133093\nPlu:4057–0</item>
+    <item name="item_10">MUSSARELA ITALAC PECA KG\nCodigo Item:133114\nPlu:9117–6</item>
+    <item name="item_11">MUSSARELA KISABOR PECA KG\nCodigo Item:151261\nPlu:6014–1</item>
+    <item name="item_12">MUSSARELA LA PAULINA KG\nCodigo Item:133041\nPlu:9735–2</item>
+    <item name="item_13">MUSSARELA LA SALLE PECA KG\nCodigo Item:151307\nPlu:6074–5</item>
+    <item name="item_14">MUSSARELA LACTOFRIOS PECA KG\nCodigo Item:133765\nPlu:4221–5</item>
+    <item name="item_15">MUSSARELA LANCHE BUFALA KG BOM DEST\nCodigo Item:133869\nPlu:8678–3</item>
+    <item name="item_16">MUSSARELA LATELLI PECA KG\nCodigo Item:133680\nPlu:4176–8</item>
+    <item name="item_17">MUSSARELA LITORAL PECA KG\nCodigo Item:133011\nPlu:9637–9</item>
+    <item name="item_18">MUSSARELA NACIONAL FRACIONADA\nCodigo Item:133775\nPlu:6009–7</item>
+    <item name="item_19">MUSSARELA RONDOLAC PECA KG\nCodigo Item:133076\nPlu:4002–0</item>
+    <item name="item_20">MUSSARELA TIROLEZ F2 PECA KG\nCodigo Item:133699\nPlu:4198–0</item>
+    <item name="item_23">QJ MUSS LANCHE IPANEMA KG\nCodigo Item:133671\nPlu:4135–5</item>
+    <item name="item_22">QJ MUSSARELA BUFALA BOM DESTINO PEC\nCodigo Item:133781\nPlu:6008–0</item>
+    <item name="item_24">QJ PRATO IPANEMA F2 PECA KG\nCodigo Item:133154\nPlu:4096–9</item>
+    <item name="item_25">QJ PRATO LANCHE IPANEMA KG\nCodigo Item:133670\nPlu:4134–8</item>
+    <item name="item_26">QJ PRATO TIROLEZ F2 PECA KG\nCodigo Item:133698\nPlu:4197–3</item>
+    <item name="item_27">QUEIJO REINO LATA TIROLEZ PC/KG\nCodigo Item:133409\nPlu:8858–9</item>
+    <item name="item_28">MUSSARELA TREGAR PC KG\nCodigo Item:167151\nPlu:14760–6</item>
+    <item name="item_29">QUEIJO MONTANHES FRACIONADO KG\nCodigo Item:133048\nPlu:9721–5</item>
+    <!--<item name="item_30">\nCodigo Item:\nPlu:</item>-->
+</string-array>
+</resources>

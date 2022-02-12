@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="salames">
+        <item name="item_18">SALAME HACIENDAS TP ITALIANO PC KG\nCodigo Item:153067\nPlu:7662–3</item>
+        <item name="item_19">SALAME ITALIANO FRIM SALAME ITALIAN\nCodigo Item:133195\nPlu:8151–1</item>
+        <item name="item_20">SALAME PERDIGAO PECA KG\nCodigo Item:131716\nPlu:4068–6</item>
+        <item name="item_21">SALAME TP ALEMAO FRIMESA PC/KG\nCodigo Item:157414\nPlu:14994–5</item>
+        <item name="item_22">SALAME TP CALABRES FRIMESA PC/KG\nCodigo Item:157413\nPlu:14993–8</item>
+        <item name="item_23">SALAME TP HAMBURGUES FRIMESA PC/KG\nCodigo Item:157412\nPlu:14992–1</item>
+        <item name="item_24">SALAME TP MILANO FRIMESA PC/KG\nCodigo Item:157410\nPlu:14990–7</item>
+        <item name="item_25">SALAMINHO ALEGRA PECA KG\nCodigo Item:131713\nPlu:4157–7</item>
+        <item name="item_26">SALAMINHO FRIMESA PC/KG\nCodigo Item:157411\nPlu:14991–4</item>
+        <item name="item_27">SALAMINHO SADIA PECA KG\nCodigo Item:133131\nPlu:8370–6</item>
+    </string-array>
+</resources>

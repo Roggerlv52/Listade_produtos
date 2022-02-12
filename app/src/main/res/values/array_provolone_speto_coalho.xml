@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Coalho_espeto_provolone">
+        <item name="item_1">PROVOLONE MAT DEF GRAN MESTRI KG\nCodigo Item:133835\nPlu:4213–0</item>
+        <item name="item_2">PROVOLONE MAT GRAN MESTRI KG\nCodigo Item:133838\nPlu:4216–1</item>
+        <item name="item_3">PROVOLONETE MAT DEF GRAN MESTRI KG\nCodigo Item:133836\nPlu:4214–7</item>
+        <item name="item_4">PROVOLONETE MAT GRAN MESTRI KG\nCodigo Item:133837\nPlu:4215–4</item>
+        <item name="item_28">QJO PROVOLONE TANIA PECA KG\nCodigo Item:133122\nPlu:4071–6</item>
+        <item name="item_33">QUEIJO PROVOLONE PEDACO TIROLEZ\nCodigo Item:133824\nPlu:9286–9</item>
+        <item name="item_5">PARMESAO IMPORTADO FRACIONADO KG\nCodigo Item:133130\nPlu:4080–8</item>
+        <item name="item_6">PARMESAO ZERO LACTOS GRAN MESTRI KG\nCodigo Item:133761\nPlu:4219–2</item>
+        <item name="item_7">QJ COALHO BARRA TIROLEZ KG\nCodigo Item:133704\nPlu:4206–2</item>
+        <item name="item_8">QJ COALHO CHIMICHURR IPANEMA KG\nCodigo Item:133700\nPlu:4202–4</item>
+        <item name="item_9">QJ COALHO ESPETO TIROLEZ KG\nCodigo Item:133085\nPlu:4042–6</item>
+        <item name="item_10">QJO COALHO ESPETO IPANEMA KG\nCodigo Item:133092\nPlu:4053–2</item>
+        <item name="item_11">QUEIJO COALHO BARRA IPANEMA PECA KG\nCodigo Item:133153\nPlu:4099–0</item>
+        <item name="item_12">QUEIJO DE COALHO BUFALA PALITO KG\nCodigo Item:133421\nPlu:9410–8</item>
+        <!--<item name="item_13">\nCodigo Item:\nPlu:</item>-->
+
+    </string-array>
+</resources>

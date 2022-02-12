@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Pizza">
+        <item name="item_36">PIZZA FRANGO CATUPIR KG\nCodigo Item:131873\nPlu:9817–5</item>
+        <item name="item_36">PIZZA GDE CALABRESA KG\nCodigo Item:133205\nPlu:8237–2</item>
+        <item name="item_36">PIZZA GDE MUSSARELA KG\nCodigo Item:133206\nPlu:8238–9</item>
+        <item name="item_36">PIZZA GRANDE MARGUER KG\nCodigo Item:131867\nPlu:9814–4</item>
+    </string-array>
+</resources>

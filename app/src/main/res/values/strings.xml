@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lista de produtos</string>
+    <string name="mussarelapecas">Mussarelas peças…</string>
+    <string name="Frango_tender">Tenders e frang defum</string>
+    <string name="bacon_cop">Bacons,copas,costelas,costel e calab</string>
+    <string name="quiejos_gorgon">"Qjo,F,gorgonjolas… "</string>
+    <string name="queijos_frescal">Qjos frescal e ricotas… </string>
+    <string name="quiejos_provolone">Provolo,coalhos… </string>
+    <string name="pizza">Pizzas</string>
+    <string name="salames">Salames</string>
+    <string name="todo">TODO</string>
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Queijos_gorgonzolas_fra">
+        <item name="item_1">GORGONZOLA FRAC CRUZILIA KG\nCodigo Item:153080\nPlu:7667–8</item>
+        <item name="item_2">GORGONZOLA FRAC GRAN MESTRI KG\nCodigo Item:133834\nPlu:4218–5</item>
+        <item name="item_3">QUEIJO GORGONZOLA FRAC TIROLEZ KG\nCodigo Item:133194\nPlu:8131–3</item>
+        <item name="item_4">QUEIJO PARMESAO FRACAO CRUZILIA KG\nCodigo Item:153083\nPlu:7670–8</item>
+        <item name="item_5">QUEIJO PARMESAO FRACIONADO NERO KG\nCodigo Item:133047\nPlu:9720–8</item>
+        <item name="item_6">QUEIJO PECORINO FRACIONADO ROMANO K\nCodigo Item:133049\nPlu:9722–2</item>
+        <item name="item_7">QUEIJO MEIA CURA TIROLEZ KG\nCodigo Item:133021\nPlu:9676–8</item>
+        <item name="item_10">QUEIJO REINO TINA LATA PC KG\nCodigo Item:132990\nPlu:9008–7</item>
+        <item name="item_11">QUEIJO TP GRUYERE SKIN PACK TIROLEZ KG\nCodigo Item:133166\nPlu:9147–3</item>
+        <item name="item_12">QUEIJO TP REINO SKIN PACK TIROLEZ KG\nCodigo Item:133164\nPlu:9144–2</item>
+        <item name="item_13">RICOTA DEF TANIA FRACAO KG\nCodigo Item:133124\nPlu:4073–0</item>
+        <item name="item_14">RICOTA DEFUM PICANTE FRACIONADA TAN\nCodigo Item:133832\nPlu:4194–2</item>
+        <item name="item_15">QUEIJO ESTEPE PJ FRACIONADO\nCodigo Item:153078\nPlu:7664–7</item>
+        <item name="item_16">QUEIJO EMMENTAL PJ FRACIONADO KG\nCodigo Item:133129\nPlu:4081–5</item>
+        <item name="item_17">QUEIJO AZUL DE MINAS FRAC CRUZILIA\nCodigo Item:135564\nPlu:9766–6</item>
+        <item name="item_18">QUEIJO GOUDA FRACAO CRUZILIA KG\nCodigo Item:135567\nPlu:4133–1</item>
+        <item name="item_19">QUEIJO GOUDA KROON KG\nCodigo Item:133789\nPlu:9263–0</item>
+        <item name="item_20">QUEIJO MAASDAM KROON KG\nCodigo Item:133632\nPlu:9262–3</item>
+        <item name="item_21">TABUA DE QUEIJOS KROON SUPREME KG\nCodigo Item:156113\nPlu:5–5</item>
+        <item name="item_22">TABUA DE QUEIJOS NACON JATOBA KG\nCodigo Item:156112\nPlu:3–1</item>
+        <item name="item_23">QJ STO CASAMENTEIRO CRUZILIA FRACAO\nCodigo Item:135565\nPlu:4089–1</item>
+        <item name="item_24">QJ TP GRANA 12 MESES GRAN MESTRI KG\nCodigo Item:133050\nPlu:9724–6</item>
+        <item name="item_25">QJ TP GRANA NERO GRAN MESTRI KG\nCodigo Item:133051\nPlu:9726–0</item>
+        <item name="item_26">QJO PARMESAO RAR GOURMET FRAC KG\nCodigo Item:133672\nPlu:4136–2</item>
+        <item name="item_27">QJO PROV TANIA FRAC FRACAO KG\nCodigo Item:133123\nPlu:4072–3</item>
+        <item name="item_29">QUEIJO A LENDA CRUZILIA FRACAO KG\nCodigo Item:153068\nPlu:7663–0</item>
+        <item name="item_30">QJ EDAM KROON FRACIONADO KG\nCodigo Item:153069\nPlu:7666–1</item>
+        <item name="item_31">QJ MINAS PADRAO CRUZILIA FRACAO KG\nCodigo Item:153081\nPlu:7668–5</item>
+       <item name="item_32">QUEIJO TPO GRANA 12M GRAN FORMAGGIO\nCodigo Item:133053\nPlu:9738–3</item>
+        <item name="item_34">QUEIJO MEIA CURA TIROLEZ KG\nCodigo Item:133021\nPlu:9676–8</item>
+       <!-- <item name="item_35">\nCodigo Item:\nPlu:</item>
+        <item name="item_36">\nCodigo Item:\nPlu:</item>
+        <item name="item_37">\nCodigo Item:\nPlu:</item> -->
+    </string-array>
+</resources>

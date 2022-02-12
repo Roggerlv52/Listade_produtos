@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Frangos_carnes_trndes">
+
+         <item name="item_1">TENDER PERDIGAO SEM OSSO KG\nCodigo Item:136144\nPlu:4082–2</item>
+        <item name="item_2">TENDER SUINO REZENDE KG\nCodigo Item:134595\nPlu:4128–7</item>
+        <item name="item_3">\TENDER PAMPLONA PECA KG\nCodigo Item:131972\nPlu:9773–4</item>
+        <item name="item_4">TENDER GOURMET SEARA PECA KG\nCodigo Item:135562\nPlu:8323–2</item>
+        <item name="item_5">TENDER COM OSSO PRIETO KG\nCodigo Item:135573\nPlu:4130–0</item>
+        <item name="item_6">TENDER BOLINHA SEARA PECA KG\nCodigo Item:135693\nPlu:7374–5</item>
+        <item name="item_7">\FRANGO DEF SEARA PECA KGnCodigo Item:136186\nPlu:8438–3</item>
+        <item name="item_8">FRANGO DEFUM CARDEAL PECA KG\nCodigo Item:151253\nPlu:4196–6</item>
+        <item name="item_9">FRANGO DEFUMADO SEARA GOURMET KG\nCodigo Item:132004\nPlu:6039–4</item>
+        <item name="item_10">FRANGO ASSADO KG\nCodigo Item:133203\nPlu:8231–0</item>
+        <item name="item_11">PRESUNTO FATIADO LACTOFRIOS KG\nCodigo Item:133706\nPlu:4208–6</item>
+        <item name="item_12">PEITO DE FRANGO DEFUMADO SADIA KG\nCodigo Item:151235\nPlu:7602–9</item>
+        <item name="item_13">LOMBO DEFUMADO PERDIGAO OURO\nCodigo Item:151246\nPlu:7622–7</item>
+        <!--<item name="item_14">\nCodigo Item:\nPlu:</item>
+        <item name="item_15">\nCodigo Item:\nPlu:</item>
+        <item name="item_16">\nCodigo Item:\nPlu:</item>
+        <item name="item_17">\nCodigo Item:\nPlu:</item>-->
+
+    </string-array>
+</resources>

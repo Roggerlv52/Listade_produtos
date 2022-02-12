@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="banco_copa_costela">
+        <item name="item_1">BACON DE PERNIL ESPECIAL ALEGRA KG\nCodigo Item:131662\nPlu:4154–6</item>
+        <item name="item_2">BACON FRACIONADO SUINO  KG\nCodigo Item:133055\nPlu:9742–0</item>
+        <item name="item_3">BACON FRACIONADO PERDIGAOA KG\nCodigo Item:151212\nPlu:6017–2</item>
+        <item name="item_4">BACON MANTA 1KG FRIMESA\nCodigo Item:133893\nPlu:8469–7</item>
+        <item name="item_5">BACON MINI CARDEAL PECA KG\nCodigo Item:133674\nPlu:4149–2</item>
+        <item name="item_6">BACON PALETA PEDACO FRIMESA KG\nCodigo Item:157438\nPlu:14986–0</item>
+        <item name="item_7">BACON TABLETE PAMPLONA PECA KG\nCodigo Item:131663\nPlu:6010–3</item>
+        <item name="item_8">BACON TABLETE SEARA GOURMET PCA KG\nCodigo Item:131665\nPlu:6019–6</item>
+        <item name="item_10">COPA CURADA FRIMESA KG\nCodigo Item:157439\nPlu:14987–7</item>
+        <item name="item_12">COPA HACIENDAS PECA KG\nCodigo Item:151245\nPlu:6016–5</item>
+        <item name="item_13">COPA SUINA CURADA ALEGRA KG\nCodigo Item:132083\nPlu:4153–9</item>
+        <item name="item_14">COST SUINA DEF.CRY COST.SUINA\nCodigo Item:133904\nPlu:8943–2</item>
+        <item name="item_15">COSTELA DEFUMADA ALEGRA KG\nCodigo Item:131690\nPlu:4155–3</item>
+        <item name="item_16">LINGUICA PAIO FRIMESA KG\nCodigo Item:157408\nPlu:14988–4</item>
+        <item name="item_9">CALABRESA FRIMESA KG\nCodigo Item:157409\nPlu:14989–1</item>
+    </string-array>
+
+
+
+</resources>
